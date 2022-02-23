@@ -1,4 +1,4 @@
-# Machine-Learning-Lab-practices
+# Machine-Learning-LAB-1,2
 This repo contains Lab practices of Machine Learning performed in Jupyter Notebook using Python language
 
 
